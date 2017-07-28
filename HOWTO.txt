@@ -1,0 +1,18 @@
+Запуск приложения
+
+java -jar ./jersey-embedded-original-1.0-SNAPOT-jar-with-dependencies.jar
+
+
+Приложение доступно по ссылке: http://localhost:2222/myApplication/
+
+Примечание:
+
+Должна быть следуюющая структура:
+
+./jersey-embedded-original-1.0-SNAPOT-jar-with-dependencies.jar
+./web-server
+    |
+    |
+    \web
+        |
+        \index.html
